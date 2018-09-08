@@ -1,2 +1,2 @@
 # git_tutorial
-Udemyを使ったgitとgithubの練習です。
+Udemyを使ったgitとgithubの練習用リポジトリです。
